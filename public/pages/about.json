@@ -1,216 +1,194 @@
-
 {
-  "meta": {
-    "title": "About Us - Ashapura Brass Industries",
-    "description": "Learn about our company's journey, infrastructure, and commitment to excellence in brass manufacturing"
-  },
   "hero": {
-    "type": "image",
-    "enabled": true,
-    "title": "About Ashapura Brass Industries",
-    "subtitle": "Excellence in Manufacturing Since 1985",
-    "description": "Discover our journey of innovation, quality, and commitment to delivering superior brass manufacturing solutions.",
-    "backgroundImage": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2000&q=80",
     "cta": {
-      "primary": "Learn More",
-      "secondary": "Watch Video"
-    }
+      "primary": "Our Capabilities",
+      "secondary": "Contact Us"
+    },
+    "type": "image",
+    "title": "About Brass Tech",
+    "enabled": true,
+    "subtitle": "Precision Manufacturing Excellence Since 2003",
+    "description": "Brass Tech is a leading precision components manufacturer dedicated to delivering high-quality engineered solutions for automotive, aerospace, and pneumatic sectors. With advanced CNC technology and a commitment to excellence, we transform complex engineering challenges into precise, reliable components.",
+    "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2"
+  },
+  "meta": {
+    "title": "Brass Tech - Precision Manufacturing Excellence Since 2003",
+    "description": "Specialized precision component manufacturer with advanced CNC technology, serving automotive, aerospace, and pneumatic industries with ISO 9001:2015 certified quality."
   },
   "sections": {
-    "companyOverview": {
-      "type": "company-overview",
-      "enabled": true,
-      "title": "Leaders in Brass Manufacturing",
-      "subtitle": "Shaping the future of engineering with precision, innovation, and unwavering commitment to quality standards.",
-      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?auto=format&fit=crop&w=800&q=80",
-      "items": [
-        {
-          "id": "overview",
-          "content": "Ashapura Brass Industries has been a pioneer in precision brass manufacturing since 1985. We specialize in producing high-quality brass components for automotive, pneumatic, aerospace, and hydraulic applications, serving clients worldwide with exceptional quality and reliability.",
-          "highlights": [
-            "ISO 9001:2015 Quality Management Certification",
-            "Advanced CNC Machining & Automation Technology",
-            "Global Export Network Spanning 50+ Countries",
-            "Dedicated R&D Team for Product Innovation",
-            "24/7 Technical Support & Customer Service",
-            "State-of-the-Art Quality Assurance Laboratory",
-            "Sustainable Manufacturing Practices",
-            "Industry-Leading Delivery Performance"
-          ]
-        }
-      ]
-    },
-    "companyJourney": {
-      "type": "company-journey",
-      "enabled": true,
-      "title": "Our Journey",
-      "subtitle": "Milestones that define our growth and excellence",
-      "items": [
-        {
-          "year": "1985",
-          "title": "Foundation",
-          "description": "Ashapura Brass Industries was founded with a vision to provide high-quality brass components."
-        },
-        {
-          "year": "1995",
-          "title": "Expansion",
-          "description": "Expanded operations with new manufacturing facilities and advanced machinery."
-        },
-        {
-          "year": "2005",
-          "title": "Quality Certification",
-          "description": "Achieved ISO 9001:2000 certification, marking our commitment to quality standards."
-        },
-        {
-          "year": "2015",
-          "title": "Global Reach",
-          "description": "Established international partnerships and expanded to 50+ countries worldwide."
-        },
-        {
-          "year": "2023",
-          "title": "Innovation Hub",
-          "description": "Launched state-of-the-art R&D facility for advanced alloy development."
-        }
-      ]
-    },
-    "infrastructure": {
-      "type": "infrastructure",
-      "enabled": true,
-      "title": "Our Infrastructure & Equipment",
-      "subtitle": "Advanced manufacturing capabilities with precision machinery",
-      "items": [
-        {
-          "id": "cnc-machines",
-          "title": "CNC Machining Centers",
-          "description": "High-precision CNC turning and milling machines for complex components with tight tolerances.",
-          "capacity": "50+ Machines",
-          "specifications": "5-axis machining capability, ±0.01mm tolerance",
-          "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=600&q=80"
-        },
-        {
-          "id": "forging-equipment",
-          "title": "Forging & Forming Equipment",
-          "description": "Heavy-duty forging presses and forming machines for creating strong, durable components.",
-          "capacity": "2000 Ton Press",
-          "specifications": "Hot & cold forging, die forging capabilities",
-          "image": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&w=600&q=80"
-        },
-        {
-          "id": "testing-equipment",
-          "title": "Quality Testing Equipment",
-          "description": "State-of-the-art testing and measurement instruments for quality assurance and material analysis.",
-          "area": "5,000 sq ft",
-          "specifications": "CMM, Spectrometer, Hardness testers, Surface finish analyzers",
-          "image": "https://images.unsplash.com/photo-1566576912293-d5ce2ba96515?auto=format&fit=crop&w=600&q=80"
-        }
-      ]
-    },
-    "manufacturingProcess": {
-      "type": "manufacturing-process",
-      "enabled": true,
-      "title": "Manufacturing Process",
-      "subtitle": "Precision engineering through systematic processes",
-      "items": [
-        {
-          "id": "design",
-          "step": 1,
-          "title": "Design & Engineering",
-          "description": "Advanced modeling and engineering analysis to ensure optimal design specifications."
-        },
-        {
-          "id": "material",
-          "step": 2,
-          "title": "Material Selection",
-          "description": "Premium quality brass alloys sourced from certified suppliers worldwide."
-        },
-        {
-          "id": "machining",
-          "step": 3,
-          "title": "Precision Machining",
-          "description": "CNC machining with tight tolerances using state-of-the-art equipment."
-        },
-        {
-          "id": "quality",
-          "step": 4,
-          "title": "Quality Control",
-          "description": "Rigorous testing and inspection at every stage of the manufacturing process."
-        },
-        {
-          "id": "finishing",
-          "step": 5,
-          "title": "Surface Finishing",
-          "description": "Professional finishing treatments including polishing, coating, and plating."
-        },
-        {
-          "id": "packaging",
-          "step": 6,
-          "title": "Packaging & Dispatch",
-          "description": "Secure packaging and timely dispatch with complete documentation."
-        }
-      ]
-    },
-    "awards": {
-      "type": "awards",
-      "enabled": true,
-      "title": "Awards & Recognition",
-      "subtitle": "Celebrating excellence and industry recognition",
-      "items": [
-        {
-          "id": "excellence",
-          "title": "Manufacturing Excellence Award",
-          "year": "2023",
-          "authority": "Gujarat Industrial Development Corporation",
-          "description": "Recognized for outstanding contribution to manufacturing sector and export growth."
-        },
-        {
-          "id": "quality",
-          "title": "Quality Excellence Award",
-          "year": "2022",
-          "authority": "Bureau of Indian Standards",
-          "description": "Awarded for maintaining highest quality standards in brass manufacturing."
-        },
-        {
-          "id": "export",
-          "title": "Export Excellence Award",
-          "year": "2021",
-          "authority": "Engineering Export Promotion Council",
-          "description": "Honored for significant contribution to India's engineering exports."
-        }
-      ]
-    },
-    "certificates": {
-      "type": "certificates",
-      "enabled": true,
-      "title": "Certifications & Standards",
-      "subtitle": "Commitment to Quality and Compliance",
-      "items": [
-        {
-          "id": "iso-9001",
-          "name": "ISO 9001:2015",
-          "description": "Quality Management System",
-          "image": "/placeholder.svg"
-        },
-        {
-          "id": "iso-14001",
-          "name": "ISO 14001:2015",
-          "description": "Environmental Management",
-          "image": "/placeholder.svg"
-        }
-      ]
-    },
     "cta": {
       "type": "cta",
+      "title": "Partner with Manufacturing Excellence",
       "enabled": true,
-      "title": "Partner with Industry Leaders",
-      "subtitle": "Join thousands of satisfied clients who trust Ashapura Brass Industries for their precision manufacturing needs.",
+      "subtitle": "Transform Your Engineering Challenges with Our Precision Solutions",
       "primaryCTA": {
         "text": "Start Your Project",
         "action": "/contact"
       },
       "secondaryCTA": {
-        "text": "Explore Our Capabilities",
+        "text": "Explore Capabilities",
         "action": "/services"
       }
+    },
+    "awards": {
+      "type": "awards",
+      "items": [
+        {
+          "id": "manufacturing-excellence",
+          "year": "2022",
+          "title": "Manufacturing Innovation Award",
+          "authority": "Gujarat Industrial Association",
+          "description": "Recognized for outstanding technological innovation in precision manufacturing"
+        },
+        {
+          "id": "export-excellence",
+          "year": "2021",
+          "title": "Export Performance Award",
+          "authority": "Ministry of Commerce",
+          "description": "Acknowledged for exceptional export performance in precision engineering"
+        }
+      ],
+      "title": "Awards & Recognition",
+      "enabled": true,
+      "subtitle": "Celebrating Excellence in Precision Manufacturing"
+    },
+    "certificates": {
+      "type": "certificates",
+      "items": [
+        {
+          "id": "iso-quality",
+          "name": "ISO 9001:2015",
+          "image": "/placeholder.svg",
+          "description": "Certified quality management system ensuring consistent, high-standard manufacturing processes"
+        },
+        {
+          "id": "six-sigma",
+          "name": "Six Sigma Certified",
+          "image": "/placeholder.svg",
+          "description": "Advanced quality control methodology ensuring minimal defect rates"
+        }
+      ],
+      "title": "Certifications & Standards",
+      "enabled": true,
+      "subtitle": "Committed to Highest Quality and Compliance"
+    },
+    "companyJourney": {
+      "type": "company-journey",
+      "items": [
+        {
+          "year": "2003",
+          "title": "Company Foundation",
+          "description": "Established with a vision to provide high-precision engineering solutions for industrial sectors"
+        },
+        {
+          "year": "2010",
+          "title": "Technological Expansion",
+          "description": "Invested in first advanced CNC machines, expanding manufacturing capabilities"
+        },
+        {
+          "year": "2015",
+          "title": "ISO Certification",
+          "description": "Achieved ISO 9001:2015 certification, demonstrating commitment to quality"
+        },
+        {
+          "year": "2021",
+          "title": "Corporate Registration",
+          "description": "Formally registered as Brass Tech, solidifying our market presence"
+        }
+      ],
+      "title": "Our Journey",
+      "enabled": true,
+      "subtitle": "Two Decades of Engineering Excellence"
+    },
+    "infrastructure": {
+      "type": "infrastructure",
+      "items": [
+        {
+          "id": "cnc-machines",
+          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
+          "title": "Advanced CNC Machining",
+          "capacity": "120+ CNC Machines",
+          "description": "State-of-the-art CNC machining center capable of producing complex precision components",
+          "specifications": "High-precision tolerances, multi-axis capabilities, advanced material handling"
+        },
+        {
+          "id": "production-facility",
+          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
+          "title": "Large Production Facility",
+          "capacity": "60,000+ sq ft",
+          "description": "Expansive manufacturing facility designed for efficient, high-volume production",
+          "specifications": "Climate-controlled environment, advanced logistics, integrated quality control"
+        }
+      ],
+      "title": "Our Infrastructure",
+      "enabled": true,
+      "subtitle": "Advanced Technology Meets Precision Engineering"
+    },
+    "companyOverview": {
+      "type": "company-overview",
+      "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
+      "items": [
+        {
+          "id": "overview",
+          "content": "Brass Tech is a premier precision components manufacturer specializing in custom engineering solutions for automotive, aerospace, and pneumatic industries. Founded in 2003, we leverage advanced CNC technology and a rigorous quality management system to deliver exceptional components that meet the most demanding specifications.",
+          "highlights": [
+            "ISO 9001:2015 Certified",
+            "120+ Advanced CNC Machines",
+            "Global Export Capabilities",
+            "Custom Manufacturing Solutions",
+            "Six Sigma Quality Standards",
+            "60,000+ sq ft Production Facility",
+            "Automotive, Aerospace, Pneumatic Expertise"
+          ]
+        }
+      ],
+      "title": "Company Overview",
+      "enabled": true,
+      "subtitle": "Precision Engineering, Uncompromising Quality"
+    },
+    "manufacturingProcess": {
+      "type": "manufacturing-process",
+      "items": [
+        {
+          "id": "design",
+          "step": 1,
+          "title": "Engineering Design",
+          "description": "Comprehensive design analysis and prototype development using advanced CAD/CAM technologies"
+        },
+        {
+          "id": "material",
+          "step": 2,
+          "title": "Material Selection",
+          "description": "Precise material sourcing and evaluation to ensure optimal performance and durability"
+        },
+        {
+          "id": "production",
+          "step": 3,
+          "title": "Precision Machining",
+          "description": "Advanced CNC machining with multi-axis capabilities for complex component manufacturing"
+        },
+        {
+          "id": "quality",
+          "step": 4,
+          "title": "Quality Assurance",
+          "description": "Rigorous inspection and testing using advanced metrology equipment"
+        },
+        {
+          "id": "finishing",
+          "step": 5,
+          "title": "Surface Treatment",
+          "description": "Advanced surface finishing techniques to enhance component performance"
+        },
+        {
+          "id": "delivery",
+          "step": 6,
+          "title": "Packaging & Delivery",
+          "description": "Secure packaging and efficient logistics ensuring safe, timely component delivery"
+        }
+      ],
+      "title": "Manufacturing Process",
+      "enabled": true,
+      "subtitle": "Systematic Approach to Precision Engineering"
     }
   }
 }
